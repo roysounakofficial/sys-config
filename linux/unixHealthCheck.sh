@@ -2,7 +2,7 @@
 # Usecase   : Script to perform health-check Unix based systems
 # Author    : Sounak 'St4rr3h' Roy
 # Email     : mail.roy.sounak@gmail.com
-# Github    : www.github.com/sounak-starreh-roy
+# Github    : www.github.com/st4rr3h
 # LinkedIn  : www.linkedin.com/in/roy-sounak
 # Copyright : Free
 # Licence   : GNU General Public Licence v3.0
